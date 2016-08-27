@@ -1,2 +1,4 @@
 # hello-world
-Git -- How do I Use it ;)
+Git -- Better Learning ;)
+
+I love Python :)
